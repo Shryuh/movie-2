@@ -3,7 +3,9 @@
 This project was on  the analysis, cleaning, future engineering, exploration of data analysis, conclusion and recommendation of Microsoft's business problem
 
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7_UJQpQiPMOcJqaAJaoz8EEvnTTcJL-QGFFSiijz4g&s
+
+![image](https://user-images.githubusercontent.com/116766865/202934010-7a998cf6-e5ba-43ab-83e9-cf8eb6996a8e.png)
+
 
 ### Business Problem
 
